@@ -1,0 +1,26 @@
+#navbar
+{
+	height: 100px;
+	width: 100%;
+	position: center;
+}
+
+#list1
+{
+	list-style-type: none;
+}
+
+#top
+{
+	position: center;
+}
+
+#middle
+{
+	position: center;
+}
+
+#bottom
+{
+	position: center;
+}
